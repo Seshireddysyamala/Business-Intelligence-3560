@@ -1,4 +1,4 @@
-# AtliQ Hardware AWS Redshift Analytics Pipeline
+# AtliQ Hardware AWS Redshift Power BI Analytics Pipeline
 
 **Dashboard Link:** https://shorturl.at/HpklT  
 **Project Type:** Business Intelligence, Cloud Analytics, Data Warehousing, KPI Reporting  
