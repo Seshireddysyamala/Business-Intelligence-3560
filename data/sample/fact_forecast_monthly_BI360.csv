@@ -1,0 +1,1001 @@
+date,division,category,product_code,product,market,platform,channel,customer_code,customer_name,forecast_quantity
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",146
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",120
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Australia,"Brick & Mortar",Retailer,90008166,Sound,216
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,141
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Australia,E-Commerce,Direct,70008170,"Atliq e Store",85
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Bangladesh,"Brick & Mortar",Direct,70010047,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Brazil,E-Commerce,Retailer,90027207,Amazon,14
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",30
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",8
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",25
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023026,Relief,17
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023027,Costco,39
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023029,Staples,25
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,E-Commerce,Retailer,90023023,Amazon,31
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Canada,E-Commerce,Retailer,90023030,Amazon,4
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",China,"Brick & Mortar",Distributor,80001019,Neptune,96
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",China,E-Commerce,Retailer,90001021,Taobao,3
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",28
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",27
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011186,Elite,37
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011187,"Chip 7",90
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011189,UniEuro,64
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011190,"Media Markt",20
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011191,Sorefoz,63
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",France,E-Commerce,Direct,70011194,"Atliq e Store",65
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Germany,"Brick & Mortar",Direct,70012042,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",602
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",526
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002002,Croma,770
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002003,Ezone,729
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002005,Lotus,227
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002006,Viveks,614
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002007,Girias,84
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",320
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,196
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002014,Expression,137
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002015,Propel,572
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,E-Commerce,Direct,70002018,"Atliq e Store",168
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,E-Commerce,Retailer,90002009,Flipkart,906
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",India,E-Commerce,Retailer,90002010,Ebay,586
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",87
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",34
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",82
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",6
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013117,Euronics,5
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,12
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",13
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,12
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",9
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013123,Expert,16
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Italy,E-Commerce,Direct,70013126,"Atliq e Store",4
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Japan,"Brick & Mortar",Direct,70004069,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Netherlands,"Brick & Mortar",Direct,70014142,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Newzealand,"Brick & Mortar",Direct,70009133,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Norway,"Brick & Mortar",Direct,70015151,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",56
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,247
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,227
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,28
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",15
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",6
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016173,Expert,4
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016174,"Currys (Dixons Carphone)",6
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",8
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",Poland,E-Commerce,Direct,70016178,"Atliq e Store",4
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",108
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD","South Korea","Brick & Mortar",Distributor,80007195,Sage,621
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",165
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD","South Korea",E-Commerce,Retailer,90007197,Amazon,143
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",61
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022073,Control,111
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022075,BestBuy,107
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",105
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022078,Costco,54
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022079,walmart,93
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,E-Commerce,Direct,70022085,"Atliq e Store",115
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,E-Commerce,Retailer,90022074,Flipkart,75
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,E-Commerce,Retailer,90022081,Amazon,176
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,E-Commerce,Retailer,90022082,Amazon,36
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160101,"AQ Digit SSD",USA,E-Commerce,Retailer,90022083,Ebay,42
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",102
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",111
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Australia,"Brick & Mortar",Retailer,90008166,Sound,208
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,78
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Australia,E-Commerce,Direct,70008170,"Atliq e Store",156
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Bangladesh,"Brick & Mortar",Direct,70010047,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Brazil,E-Commerce,Retailer,90027207,Amazon,63
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",33
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",42
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",20
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023026,Relief,30
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023027,Costco,26
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,"Brick & Mortar",Retailer,90023029,Staples,23
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,E-Commerce,Retailer,90023023,Amazon,35
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Canada,E-Commerce,Retailer,90023030,Amazon,8
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",China,"Brick & Mortar",Distributor,80001019,Neptune,137
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",China,E-Commerce,Retailer,90001021,Taobao,16
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",68
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",68
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011186,Elite,58
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011187,"Chip 7",13
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011189,UniEuro,55
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011190,"Media Markt",10
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,"Brick & Mortar",Retailer,90011191,Sorefoz,48
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",France,E-Commerce,Direct,70011194,"Atliq e Store",69
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Germany,"Brick & Mortar",Direct,70012042,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",200
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",212
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002002,Croma,118
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002003,Ezone,439
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002005,Lotus,704
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002006,Viveks,243
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002007,Girias,219
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",85
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,542
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002014,Expression,113
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,"Brick & Mortar",Retailer,90002015,Propel,626
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,E-Commerce,Direct,70002018,"Atliq e Store",85
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,E-Commerce,Retailer,90002009,Flipkart,631
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",India,E-Commerce,Retailer,90002010,Ebay,315
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",75
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",47
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",100
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",10
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013117,Euronics,22
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,8
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",3
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,9
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",13
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,"Brick & Mortar",Retailer,90013123,Expert,4
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Italy,E-Commerce,Direct,70013126,"Atliq e Store",19
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Japan,"Brick & Mortar",Direct,70004069,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Netherlands,"Brick & Mortar",Direct,70014142,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Newzealand,"Brick & Mortar",Direct,70009133,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Norway,"Brick & Mortar",Direct,70015151,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",56
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,187
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,249
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,29
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",23
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",3
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016173,Expert,5
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016174,"Currys (Dixons Carphone)",2
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",9
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",Poland,E-Commerce,Direct,70016178,"Atliq e Store",3
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",74
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD","South Korea","Brick & Mortar",Distributor,80007195,Sage,149
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",36
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD","South Korea",E-Commerce,Retailer,90007197,Amazon,149
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",60
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022073,Control,186
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022075,BestBuy,52
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",94
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022078,Costco,78
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,"Brick & Mortar",Retailer,90022079,walmart,106
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,E-Commerce,Direct,70022085,"Atliq e Store",130
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,E-Commerce,Retailer,90022074,Flipkart,83
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,E-Commerce,Retailer,90022081,Amazon,54
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,E-Commerce,Retailer,90022082,Amazon,24
+"2017-09-01 00:00:00","N & S","External Solid State Drives",A6218160102,"AQ Digit SSD",USA,E-Commerce,Retailer,90022083,Ebay,59
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",451
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",394
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Australia,"Brick & Mortar",Retailer,90008166,Sound,87
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,61
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Australia,E-Commerce,Direct,70008170,"Atliq e Store",491
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Bangladesh,"Brick & Mortar",Direct,70010047,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Brazil,E-Commerce,Retailer,90027207,Amazon,130
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",22
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",8
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",15
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,"Brick & Mortar",Retailer,90023026,Relief,25
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,"Brick & Mortar",Retailer,90023027,Costco,72
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,"Brick & Mortar",Retailer,90023029,Staples,30
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,E-Commerce,Retailer,90023023,Amazon,56
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Canada,E-Commerce,Retailer,90023030,Amazon,67
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",China,"Brick & Mortar",Distributor,80001019,Neptune,256
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",China,E-Commerce,Retailer,90001021,Taobao,58
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",117
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",64
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,"Brick & Mortar",Retailer,90011186,Elite,39
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,"Brick & Mortar",Retailer,90011187,"Chip 7",77
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,"Brick & Mortar",Retailer,90011189,UniEuro,121
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,"Brick & Mortar",Retailer,90011190,"Media Markt",189
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,"Brick & Mortar",Retailer,90011191,Sorefoz,95
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",France,E-Commerce,Direct,70011194,"Atliq e Store",21
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Germany,"Brick & Mortar",Direct,70012042,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",174
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",1160
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002002,Croma,1390
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002003,Ezone,526
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002005,Lotus,1678
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002006,Viveks,735
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002007,Girias,361
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",785
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,916
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002014,Expression,1055
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,"Brick & Mortar",Retailer,90002015,Propel,1360
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,E-Commerce,Direct,70002018,"Atliq e Store",1313
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,E-Commerce,Retailer,90002009,Flipkart,1825
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",India,E-Commerce,Retailer,90002010,Ebay,1097
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",95
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",68
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",118
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",15
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,"Brick & Mortar",Retailer,90013117,Euronics,19
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,12
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",26
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,15
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",43
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,"Brick & Mortar",Retailer,90013123,Expert,38
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Italy,E-Commerce,Direct,70013126,"Atliq e Store",13
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Japan,"Brick & Mortar",Direct,70004069,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Netherlands,"Brick & Mortar",Direct,70014142,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Newzealand,"Brick & Mortar",Direct,70009133,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Norway,"Brick & Mortar",Direct,70015151,"AltiQ Exclusive",0
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",94
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,232
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,130
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,56
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",123
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",10
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",19
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Poland,"Brick & Mortar",Retailer,90016173,Expert,16
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Poland,"Brick & Mortar",Retailer,90016174,"Currys (Dixons Carphone)",16
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",3
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",Poland,E-Commerce,Direct,70016178,"Atliq e Store",20
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",232
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1","South Korea","Brick & Mortar",Distributor,80007195,Sage,1188
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",386
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1","South Korea",E-Commerce,Retailer,90007197,Amazon,467
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",81
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,"Brick & Mortar",Retailer,90022073,Control,367
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,"Brick & Mortar",Retailer,90022075,BestBuy,93
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",285
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,"Brick & Mortar",Retailer,90022078,Costco,208
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,"Brick & Mortar",Retailer,90022079,walmart,185
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,E-Commerce,Direct,70022085,"Atliq e Store",85
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,E-Commerce,Retailer,90022074,Flipkart,144
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,E-Commerce,Retailer,90022081,Amazon,256
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,E-Commerce,Retailer,90022082,Amazon,79
+"2017-09-01 00:00:00","N & S","Wi fi extender",A7118160101,"AQ Wi Power Dx1",USA,E-Commerce,Retailer,90022083,Ebay,225
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",21
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",24
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008166,Sound,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,22
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Australia,E-Commerce,Direct,70008170,"Atliq e Store",28
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Brazil,E-Commerce,Retailer,90027207,Amazon,8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023026,Relief,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023027,Costco,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023029,Staples,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023023,Amazon,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023030,Amazon,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",China,"Brick & Mortar",Distributor,80001019,Neptune,16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",China,E-Commerce,Retailer,90001021,Taobao,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011186,Elite,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011187,"Chip 7",4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011189,UniEuro,11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011190,"Media Markt",6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011191,Sorefoz,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",France,E-Commerce,Direct,70011194,"Atliq e Store",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",117
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",48
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002002,Croma,61
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002003,Ezone,74
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002005,Lotus,56
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002006,Viveks,94
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002007,Girias,78
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",68
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,77
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002014,Expression,15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002015,Propel,74
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,E-Commerce,Direct,70002018,"Atliq e Store",97
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002009,Flipkart,67
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002010,Ebay,24
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",19
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013123,Expert,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Italy,E-Commerce,Direct,70013126,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016173,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016174,"Currys (Dixons Carphone)",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",Poland,E-Commerce,Direct,70016178,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X","South Korea","Brick & Mortar",Distributor,80007195,Sage,23
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",27
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X","South Korea",E-Commerce,Retailer,90007197,Amazon,21
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022073,Control,11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022075,BestBuy,8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",10
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022078,Costco,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022079,walmart,13
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,E-Commerce,Direct,70022085,"Atliq e Store",12
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022074,Flipkart,26
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022081,Amazon,36
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022082,Amazon,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150101,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022083,Ebay,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",21
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008166,Sound,12
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,31
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Australia,E-Commerce,Direct,70008170,"Atliq e Store",22
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Brazil,E-Commerce,Retailer,90027207,Amazon,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023026,Relief,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023027,Costco,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023029,Staples,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023023,Amazon,8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023030,Amazon,6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",China,"Brick & Mortar",Distributor,80001019,Neptune,17
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",China,E-Commerce,Retailer,90001021,Taobao,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011186,Elite,9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011187,"Chip 7",4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011189,UniEuro,8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011190,"Media Markt",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011191,Sorefoz,9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",France,E-Commerce,Direct,70011194,"Atliq e Store",6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",102
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",44
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002002,Croma,59
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002003,Ezone,109
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002005,Lotus,65
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002006,Viveks,50
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002007,Girias,104
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",26
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,25
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002014,Expression,88
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002015,Propel,54
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,E-Commerce,Direct,70002018,"Atliq e Store",41
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002009,Flipkart,102
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002010,Ebay,20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",14
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013117,Euronics,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013123,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Italy,E-Commerce,Direct,70013126,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,24
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016173,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",Poland,E-Commerce,Direct,70016178,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X","South Korea","Brick & Mortar",Distributor,80007195,Sage,17
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X","South Korea",E-Commerce,Retailer,90007197,Amazon,20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022073,Control,7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022075,BestBuy,15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022078,Costco,15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022079,walmart,18
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,E-Commerce,Direct,70022085,"Atliq e Store",17
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022074,Flipkart,27
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022081,Amazon,31
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022082,Amazon,20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150102,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022083,Ebay,16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",14
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",30
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008166,Sound,33
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,34
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Australia,E-Commerce,Direct,70008170,"Atliq e Store",25
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Brazil,E-Commerce,Retailer,90027207,Amazon,9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023026,Relief,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023027,Costco,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023029,Staples,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023023,Amazon,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023030,Amazon,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",China,"Brick & Mortar",Distributor,80001019,Neptune,11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",China,E-Commerce,Retailer,90001021,Taobao,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011186,Elite,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011187,"Chip 7",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011189,UniEuro,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011190,"Media Markt",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011191,Sorefoz,9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",France,E-Commerce,Direct,70011194,"Atliq e Store",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",82
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",22
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002002,Croma,71
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002003,Ezone,115
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002005,Lotus,21
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002006,Viveks,32
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002007,Girias,102
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",37
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,115
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002014,Expression,17
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002015,Propel,88
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,E-Commerce,Direct,70002018,"Atliq e Store",36
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002009,Flipkart,45
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002010,Ebay,57
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",18
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",17
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013117,Euronics,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013123,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Italy,E-Commerce,Direct,70013126,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,12
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,12
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016174,"Currys (Dixons Carphone)",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",Poland,E-Commerce,Direct,70016178,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X","South Korea","Brick & Mortar",Distributor,80007195,Sage,136
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",19
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X","South Korea",E-Commerce,Retailer,90007197,Amazon,8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022073,Control,21
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022075,BestBuy,25
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022078,Costco,10
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022079,walmart,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,E-Commerce,Direct,70022085,"Atliq e Store",9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022074,Flipkart,7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022081,Amazon,10
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022082,Amazon,23
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150103,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022083,Ebay,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",12
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008166,Sound,19
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Australia,E-Commerce,Direct,70008170,"Atliq e Store",16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Brazil,E-Commerce,Retailer,90027207,Amazon,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023026,Relief,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023027,Costco,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023029,Staples,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023023,Amazon,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023030,Amazon,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",China,"Brick & Mortar",Distributor,80001019,Neptune,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",China,E-Commerce,Retailer,90001021,Taobao,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",10
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011186,Elite,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011187,"Chip 7",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011189,UniEuro,10
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011190,"Media Markt",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011191,Sorefoz,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",France,E-Commerce,Direct,70011194,"Atliq e Store",11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",96
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",79
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002002,Croma,52
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002003,Ezone,24
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002005,Lotus,18
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002006,Viveks,24
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002007,Girias,67
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",59
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,102
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002014,Expression,45
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002015,Propel,78
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,E-Commerce,Direct,70002018,"Atliq e Store",24
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002009,Flipkart,88
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002010,Ebay,101
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",10
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013117,Euronics,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013123,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Italy,E-Commerce,Direct,70013126,"Atliq e Store",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,43
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016173,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",30
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X","South Korea","Brick & Mortar",Distributor,80007195,Sage,65
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X","South Korea",E-Commerce,Retailer,90007197,Amazon,25
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",18
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022073,Control,9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022075,BestBuy,18
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022078,Costco,23
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022079,walmart,11
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,E-Commerce,Direct,70022085,"Atliq e Store",10
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022074,Flipkart,15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022081,Amazon,34
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022082,Amazon,17
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150104,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022083,Ebay,20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008166,Sound,27
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,14
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Australia,E-Commerce,Direct,70008170,"Atliq e Store",4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Brazil,E-Commerce,Retailer,90027207,Amazon,6
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023026,Relief,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023027,Costco,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,"Brick & Mortar",Retailer,90023029,Staples,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023023,Amazon,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Canada,E-Commerce,Retailer,90023030,Amazon,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",China,"Brick & Mortar",Distributor,80001019,Neptune,13
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",China,E-Commerce,Retailer,90001021,Taobao,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011186,Elite,9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011187,"Chip 7",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011189,UniEuro,7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011190,"Media Markt",9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,"Brick & Mortar",Retailer,90011191,Sorefoz,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",France,E-Commerce,Direct,70011194,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",80
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",35
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002002,Croma,68
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002003,Ezone,53
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002005,Lotus,15
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002006,Viveks,96
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002007,Girias,68
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",22
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,83
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002014,Expression,30
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,"Brick & Mortar",Retailer,90002015,Propel,80
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,E-Commerce,Direct,70002018,"Atliq e Store",81
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002009,Flipkart,65
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",India,E-Commerce,Retailer,90002010,Ebay,61
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013117,Euronics,2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,"Brick & Mortar",Retailer,90013123,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Italy,E-Commerce,Direct,70013126,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,40
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,30
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,9
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Poland,"Brick & Mortar",Retailer,90016173,Expert,1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",Poland,E-Commerce,Direct,70016178,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X","South Korea","Brick & Mortar",Distributor,80007195,Sage,40
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",8
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X","South Korea",E-Commerce,Retailer,90007197,Amazon,23
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",12
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022073,Control,16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022075,BestBuy,24
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",16
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022078,Costco,7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,"Brick & Mortar",Retailer,90022079,walmart,5
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,E-Commerce,Direct,70022085,"Atliq e Store",7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022074,Flipkart,20
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022081,Amazon,4
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022082,Amazon,7
+"2017-09-01 00:00:00","P & A","Graphic Card",A0418150105,"AQ Mforce Gen X",USA,E-Commerce,Retailer,90022083,Ebay,9
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",16
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008166,Sound,11
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,17
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,E-Commerce,Direct,70008170,"Atliq e Store",8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Brazil,E-Commerce,Retailer,90027207,Amazon,5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023026,Relief,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023027,Costco,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023029,Staples,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023023,Amazon,5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023030,Amazon,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,"Brick & Mortar",Distributor,80001019,Neptune,7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,E-Commerce,Retailer,90001021,Taobao,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011186,Elite,8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011187,"Chip 7",7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011189,UniEuro,7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011190,"Media Markt",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011191,Sorefoz,8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,E-Commerce,Direct,70011194,"Atliq e Store",7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",18
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",52
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002002,Croma,47
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002003,Ezone,56
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002005,Lotus,40
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002006,Viveks,32
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002007,Girias,44
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",42
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,34
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002014,Expression,68
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002015,Propel,43
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Direct,70002018,"Atliq e Store",11
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002009,Flipkart,48
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002010,Ebay,17
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",9
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013117,Euronics,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013123,Expert,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,E-Commerce,Direct,70013126,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,21
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,21
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Retailer,90016173,Expert,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Distributor,80007195,Sage,62
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Retailer,90007197,Amazon,16
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",13
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022073,Control,7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022075,BestBuy,6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022078,Costco,6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022079,walmart,14
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Direct,70022085,"Atliq e Store",12
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022074,Flipkart,5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022081,Amazon,7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022082,Amazon,15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150101,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022083,Ebay,5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",14
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",11
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008166,Sound,12
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,9
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,E-Commerce,Direct,70008170,"Atliq e Store",19
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Brazil,E-Commerce,Retailer,90027207,Amazon,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023026,Relief,4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023027,Costco,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023029,Staples,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023023,Amazon,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023030,Amazon,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,"Brick & Mortar",Distributor,80001019,Neptune,15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,E-Commerce,Retailer,90001021,Taobao,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011186,Elite,5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011187,"Chip 7",8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011189,UniEuro,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011190,"Media Markt",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011191,Sorefoz,6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,E-Commerce,Direct,70011194,"Atliq e Store",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",62
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",48
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002002,Croma,55
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002003,Ezone,73
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002005,Lotus,30
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002006,Viveks,34
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002007,Girias,75
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",25
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,43
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002014,Expression,18
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002015,Propel,56
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Direct,70002018,"Atliq e Store",58
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002009,Flipkart,32
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002010,Ebay,64
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",10
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013123,Expert,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,E-Commerce,Direct,70013126,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,23
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,E-Commerce,Direct,70016178,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",10
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Distributor,80007195,Sage,20
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Retailer,90007197,Amazon,16
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022073,Control,9
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022075,BestBuy,10
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",10
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022078,Costco,13
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022079,walmart,12
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Direct,70022085,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022074,Flipkart,17
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022081,Amazon,16
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022082,Amazon,8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150102,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022083,Ebay,8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",17
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008166,Sound,18
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,E-Commerce,Direct,70008170,"Atliq e Store",7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Brazil,E-Commerce,Retailer,90027207,Amazon,4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023026,Relief,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023027,Costco,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023029,Staples,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023023,Amazon,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023030,Amazon,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,"Brick & Mortar",Distributor,80001019,Neptune,14
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,E-Commerce,Retailer,90001021,Taobao,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011186,Elite,6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011187,"Chip 7",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011189,UniEuro,7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011190,"Media Markt",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011191,Sorefoz,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,E-Commerce,Direct,70011194,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",11
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",65
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002002,Croma,51
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002003,Ezone,22
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002005,Lotus,42
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002006,Viveks,82
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002007,Girias,9
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",52
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,29
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002014,Expression,72
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002015,Propel,38
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Direct,70002018,"Atliq e Store",22
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002009,Flipkart,44
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002010,Ebay,53
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",10
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",9
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013123,Expert,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,E-Commerce,Direct,70013126,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,18
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,E-Commerce,Direct,70016178,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Distributor,80007195,Sage,97
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",17
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Retailer,90007197,Amazon,6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022073,Control,16
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022075,BestBuy,11
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022078,Costco,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022079,walmart,13
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Direct,70022085,"Atliq e Store",14
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022074,Flipkart,14
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022081,Amazon,15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022082,Amazon,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150103,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022083,Ebay,7
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",10
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",17
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008166,Sound,4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Australia,E-Commerce,Direct,70008170,"Atliq e Store",22
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Brazil,E-Commerce,Retailer,90027207,Amazon,6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023026,Relief,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023027,Costco,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,"Brick & Mortar",Retailer,90023029,Staples,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023023,Amazon,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Canada,E-Commerce,Retailer,90023030,Amazon,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,"Brick & Mortar",Distributor,80001019,Neptune,15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",China,E-Commerce,Retailer,90001021,Taobao,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011186,Elite,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011187,"Chip 7",6
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011189,UniEuro,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011190,"Media Markt",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,"Brick & Mortar",Retailer,90011191,Sorefoz,8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",France,E-Commerce,Direct,70011194,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",25
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",29
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002002,Croma,18
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002003,Ezone,63
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002005,Lotus,77
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002006,Viveks,64
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002007,Girias,60
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,59
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002014,Expression,53
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,"Brick & Mortar",Retailer,90002015,Propel,64
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Direct,70002018,"Atliq e Store",59
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002009,Flipkart,87
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",India,E-Commerce,Retailer,90002010,Ebay,65
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",11
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",9
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013117,Euronics,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,"Brick & Mortar",Retailer,90013123,Expert,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Italy,E-Commerce,Direct,70013126,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",4
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,18
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Retailer,90016173,Expert,1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,"Brick & Mortar",Retailer,90016174,"Currys (Dixons Carphone)",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Poland,E-Commerce,Direct,70016178,"Atliq e Store",1
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",12
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea","Brick & Mortar",Distributor,80007195,Sage,11
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",8
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","South Korea",E-Commerce,Retailer,90007197,Amazon,15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022073,Control,15
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022075,BestBuy,13
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",10
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022078,Costco,2
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,"Brick & Mortar",Retailer,90022079,walmart,3
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Direct,70022085,"Atliq e Store",19
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022074,Flipkart,16
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022081,Amazon,5
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022082,Amazon,19
+"2017-09-01 00:00:00","P & A","Internal HDD",A0118150104,"AQ Dracula HDD â€“ 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",USA,E-Commerce,Retailer,90022083,Ebay,12
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",110
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",68
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Australia,"Brick & Mortar",Retailer,90008166,Sound,38
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,37
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Australia,E-Commerce,Direct,70008170,"Atliq e Store",143
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Brazil,E-Commerce,Retailer,90027207,Amazon,63
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",25
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",20
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",21
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023026,Relief,24
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023027,Costco,11
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023029,Staples,27
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,E-Commerce,Retailer,90023023,Amazon,30
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Canada,E-Commerce,Retailer,90023030,Amazon,9
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",China,"Brick & Mortar",Distributor,80001019,Neptune,59
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",China,E-Commerce,Retailer,90001021,Taobao,28
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",61
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",65
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011186,Elite,65
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011187,"Chip 7",54
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011189,UniEuro,9
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011190,"Media Markt",39
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011191,Sorefoz,53
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",France,E-Commerce,Direct,70011194,"Atliq e Store",49
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",607
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",313
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002002,Croma,509
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002003,Ezone,196
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002005,Lotus,329
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002006,Viveks,155
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002007,Girias,114
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",448
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,303
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002014,Expression,109
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002015,Propel,574
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,E-Commerce,Direct,70002018,"Atliq e Store",219
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,E-Commerce,Retailer,90002009,Flipkart,591
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",India,E-Commerce,Retailer,90002010,Ebay,333
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Indonesia,"Brick & Mortar",Direct,70003181,"AltiQ Exclusive",98
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Indonesia,"Brick & Mortar",Retailer,90003179,"Acclaimed Stores",133
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Indonesia,E-Commerce,Direct,70003182,"Atliq e Store",79
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,"Brick & Mortar",Direct,70013125,"AltiQ Exclusive",19
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,"Brick & Mortar",Retailer,90013117,Euronics,12
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,"Brick & Mortar",Retailer,90013118,Fnac-Darty,9
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,"Brick & Mortar",Retailer,90013119,"Argos (Sainsbury's)",10
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,"Brick & Mortar",Retailer,90013121,Boulanger,3
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,"Brick & Mortar",Retailer,90013122,"Radio Popular",17
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,"Brick & Mortar",Retailer,90013123,Expert,6
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Italy,E-Commerce,Direct,70013126,"Atliq e Store",2
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Philiphines,"Brick & Mortar",Direct,70006157,"AltiQ Exclusive",56
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Philiphines,"Brick & Mortar",Distributor,80006154,Synthetic,131
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Philiphines,"Brick & Mortar",Distributor,80006155,Novus,122
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Philiphines,"Brick & Mortar",Retailer,90006153,Insight,43
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Philiphines,E-Commerce,Direct,70006158,"Atliq e Store",20
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Poland,"Brick & Mortar",Direct,70016177,"AltiQ Exclusive",6
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Poland,"Brick & Mortar",Retailer,90016171,"Electricalsara Stores",5
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Poland,"Brick & Mortar",Retailer,90016173,Expert,4
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Poland,"Brick & Mortar",Retailer,90016174,"Currys (Dixons Carphone)",3
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Poland,"Brick & Mortar",Retailer,90016175,"Argos (Sainsbury's)",8
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",Poland,E-Commerce,Direct,70016178,"Atliq e Store",4
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1","South Korea","Brick & Mortar",Direct,70007198,"AltiQ Exclusive",158
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1","South Korea","Brick & Mortar",Distributor,80007195,Sage,335
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1","South Korea",E-Commerce,Direct,70007199,"Atliq e Store",211
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1","South Korea",E-Commerce,Retailer,90007197,Amazon,114
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,"Brick & Mortar",Retailer,90022071,"Acclaimed Stores",45
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,"Brick & Mortar",Retailer,90022073,Control,92
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,"Brick & Mortar",Retailer,90022075,BestBuy,23
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,"Brick & Mortar",Retailer,90022077,"Radio Shack",150
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,"Brick & Mortar",Retailer,90022078,Costco,106
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,"Brick & Mortar",Retailer,90022079,walmart,80
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,E-Commerce,Direct,70022085,"Atliq e Store",148
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,E-Commerce,Retailer,90022074,Flipkart,101
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,E-Commerce,Retailer,90022081,Amazon,54
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,E-Commerce,Retailer,90022082,Amazon,129
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150101,"AQ Master wired x1",USA,E-Commerce,Retailer,90022083,Ebay,142
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Australia,"Brick & Mortar",Direct,70008169,"AltiQ Exclusive",209
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Australia,"Brick & Mortar",Retailer,90008165,"Forward Stores",65
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Australia,"Brick & Mortar",Retailer,90008166,Sound,52
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Australia,"Brick & Mortar",Retailer,90008167,Electricalsocity,224
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Australia,E-Commerce,Direct,70008170,"Atliq e Store",163
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Brazil,E-Commerce,Retailer,90027207,Amazon,58
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,"Brick & Mortar",Direct,70023031,"AltiQ Exclusive",25
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023022,"Nomad Stores",34
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023025,"Premium Stores",34
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023026,Relief,14
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023027,Costco,18
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,"Brick & Mortar",Retailer,90023029,Staples,10
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,E-Commerce,Retailer,90023023,Amazon,24
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",Canada,E-Commerce,Retailer,90023030,Amazon,22
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",China,"Brick & Mortar",Distributor,80001019,Neptune,111
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",China,E-Commerce,Retailer,90001021,Taobao,22
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,"Brick & Mortar",Direct,70011193,"AltiQ Exclusive",31
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011185,"Epic Stores",61
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011186,Elite,18
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011187,"Chip 7",15
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011189,UniEuro,63
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011190,"Media Markt",8
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,"Brick & Mortar",Retailer,90011191,Sorefoz,17
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",France,E-Commerce,Direct,70011194,"Atliq e Store",38
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Direct,70002017,"AltiQ Exclusive",377
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002001,"Reliance Digital",215
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002002,Croma,462
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002003,Ezone,538
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002005,Lotus,578
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002006,Viveks,290
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002007,Girias,591
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002011,"Atliq Exclusive",400
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002013,Electricalslytical,722
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002014,Expression,106
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,"Brick & Mortar",Retailer,90002015,Propel,490
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,E-Commerce,Direct,70002018,"Atliq e Store",791
+"2017-09-01 00:00:00","P & A",Keyboard,A2918150102,"AQ Master wired x1",India,E-Commerce,Retailer,90002009,Flipkart,705
