@@ -413,7 +413,7 @@ This script is designed as a scalable AWS Glue-style transformation path for pro
 ## Repository Structure
 
 ```text
-AtliQ-Hardware-AWS-Redshift-Analytics-Pipeline/
+AtliQ-Hardware-AWS-Redshift-PowerBI-Analytics-Pipeline/
 │
 ├── README.md
 ├── requirements.txt
